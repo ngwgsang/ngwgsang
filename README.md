@@ -1,7 +1,7 @@
 
 <p style="text-align: center;"> ### Hi there 👋 </p>
-<p align="center">centered text</p>
-![sangcamap](https://media3.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif?cid=ecf05e47eolx92h158p5vtgt97spujd42lna5p6wbiqcfsl0&rid=giphy.gif&ct=g)
+<p align="center">centered text =giphy.gif&ct=g </p>
+![sangcamap](https://media3.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif?cid=ecf05e47eolx92h158p5vtgt97spujd42lna5p6wbiqcfsl0&rid=giphy.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
