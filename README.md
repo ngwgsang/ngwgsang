@@ -1,9 +1,7 @@
 
 <p style="text-align: center;"> ### Hi there 👋 </p>
 <p align="center">centered text</p>
-**sangcamap/sangcamap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<iframe src="https://giphy.com/embed/cCvWHbfVdn2bm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shark-sharks-week-cCvWHbfVdn2bm">via GIPHY</a></p>
-Here are some ideas to get you started:
+![sangcamap](https://media3.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif?cid=ecf05e47eolx92h158p5vtgt97spujd42lna5p6wbiqcfsl0&rid=giphy.gif&ct=g)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
