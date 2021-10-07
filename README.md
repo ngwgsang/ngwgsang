@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://media1.giphy.com/media/go3X4svFhKdzi/giphy.gif?cid=ecf05e47vzs9zh71313ze3xsh9k8bjb05vtj5wqjjfo4kjmu&rid=giphy.gif&ct=g" width = "800" />
 </p>
-
+<img src="https://www.reddit.com/r/animegifs/comments/6lksif/arararagi_dancing/" width = "800" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
