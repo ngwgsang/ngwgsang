@@ -1,6 +1,6 @@
-<p align="center">centered text =giphy.gif&ct=g </p>
-![sangcamap](https://media3.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif?cid=ecf05e47eolx92h158p5vtgt97spujd42lna5p6wbiqcfsl0&rid=giphy.gif)
-<img src="https://media3.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif?cid=790b7611f28411857d28ef5cba4f64c605d3273399b1a9eb&rid=giphy.gif&ct=g" width="100" height="100" />
+<p align="center">
+<img src="https://media1.giphy.com/media/go3X4svFhKdzi/giphy.gif?cid=ecf05e47vzs9zh71313ze3xsh9k8bjb05vtj5wqjjfo4kjmu&rid=giphy.gif&ct=g" width="200" height="200" />
+</p>
 
 
 - 🔭 I’m currently working on ...
