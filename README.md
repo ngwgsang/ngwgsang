@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://media4.giphy.com/media/Edhlj3Nf7cUSs/giphy.gif?cid=ecf05e47fkkpkhlqu7g3gpg4q48sjhc41qymbfiwu2bg3bf7&rid=giphy.gif&ct=g" width = "1000"/>
+<img src="https://media3.giphy.com/media/l46C93LNM33JJ1SMw/giphy.gif?cid=ecf05e47th9bm9jnwyoo38s2qon36rv5xwgrnzsen15fwc5a&rid=giphy.gif&ct=g" width = "800"/>
 </p>
