@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nguyen Quang Sang ✨</h1>
+<h1 align="center">Hi, <a href = "https://sangcamap.github.io/portfolio/dist/index.html">I'm Nguyen Quang Sang ✨</a></h1>
 <h3 align="center"> 🌱 I am a 4th year student of the Japanese orientation program at the University of Information technology. I’m currently learning React, Automation testing and NLP</h3>
 
 
