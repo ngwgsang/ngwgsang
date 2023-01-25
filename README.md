@@ -1,4 +1,4 @@
-<h1 align="center"><a href = "https://sangcamap.github.io/portfolio/dist/index.html">Hi, I'm Nguyen Quang Sang ✨</a></h1>
+<h1 align="center"><a href = "https://sangcamap.github.io/portfolio/">Hi, I'm Nguyen Quang Sang ✨</a></h1>
 
 <img src="![image](https://user-images.githubusercontent.com/55171560/214609844-4dcd3a94-d068-48cc-b489-7879b6e08a93.png)" />
 
