@@ -1,8 +1,10 @@
-<h1 align="center">Hi, <a href = "https://sangcamap.github.io/portfolio/dist/index.html">I'm Nguyen Quang Sang ✨</a></h1>
-<h3 align="center"> 🌱 I am a 4th year student of the Japanese Orientation Program at the University of Information Technology. I’m currently learning React, Automation testing and NLP</h3>
+<h1 align="center"><a href = "https://sangcamap.github.io/portfolio/dist/index.html">Hi, I'm Nguyen Quang Sang ✨</a></h1>
 
+<img src="![image](https://user-images.githubusercontent.com/55171560/214609844-4dcd3a94-d068-48cc-b489-7879b6e08a93.png)" />
 
-
+<p align = "center">
+<img src="https://s199.imacdn.com/ta/2017/10/09/f1c8491801a6a520_c53437d839b8274e_17946715075274563143215.jpg"/>
+</p>
 <p align = "center"> 
     <img src = "https://komarev.com/ghpvc/?username=sangcamap&style=for-the-badge" />
     <img src = "https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sangcamap" />
@@ -10,23 +12,7 @@
 </p>
 
 
-<h3 align="center" >Programing language & Frameworks</h3>
-
-<p align = "center">
-  <img  src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" display = "block"/>
-  <img  src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img  src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img  src= "https://img.shields.io/badge/Bootstrap-FAFAFA?style=for-the-badge&logo=bootstrap&logoColor=white%22"/>
-  <img  src= "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img  src= "https://img.shields.io/badge/Pug-FAFAFA?style=for-the-badge&logo=pug&logoColor=A27B5C"/>
-  <img  src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img  src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img  src= "https://img.shields.io/badge/Puppeteer-black?style=for-the-badge&logo=puppeteer&logoColor=5BB318"/>
-  <img  src= "https://img.shields.io/badge/Vitest-black?style=for-the-badge&logo=vite&logoColor=FFF80A"/>
-  <img  src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-
+<h3 align="center" >Programing language & Fmeworks</h3>
 
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangcamap&show_icons=true&locale=en" alt="sangcamap" />
