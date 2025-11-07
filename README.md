@@ -1,4 +1,4 @@
-## Researcher. Developer. Side-hustler.
+## Developer
 
 🧠 Passionate about NLP and how machines understand language.
 
