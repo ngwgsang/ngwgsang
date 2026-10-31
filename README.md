@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Sang+Quang+Nguyen;Vietnamese+NLP+%C2%B7+LLMs+%C2%B7+AI+Safety;%E6%8B%99%E8%80%85%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B5%AA%E4%BA%BA%E3%81%A7%E3%81%99%E3%80%82&font=Fira%20Code&center=true&width=800&height=100&duration=3000&pause=1000&color=1B2CC1" alt="Typing SVG" />
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Sang+Quang+Nguyen;Vietnamese+NLP+%C2%B7+LLMs+%C2%B7+AI+Safety;%E6%8B%99%E8%80%85%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B5%AA%E4%BA%BA%E3%81%A7%E3%81%99%E3%80%82&font=Fira%20Code&center=true&width=800&height=100&duration=3000&pause=1000&color=58A6FF" /> <img src="https://readme-typing-svg.herokuapp.com/?lines=Sang+Quang+Nguyen;Vietnamese+NLP+%C2%B7+LLMs+%C2%B7+AI+Safety;%E6%8B%99%E8%80%85%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B5%AA%E4%BA%BA%E3%81%A7%E3%81%99%E3%80%82&font=Fira%20Code&center=true&width=800&height=100&duration=3000&pause=1000&color=1B2CC1" alt="Typing SVG" /> </picture>
 
 Ho Chi Minh City, Viet Nam
 
