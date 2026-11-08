@@ -16,11 +16,21 @@ Ho Chi Minh City, Viet Nam
 
 ### About me
 
-I work on **Vietnamese NLP** and **large language models**, with a soft spot for paraphrasing. My research covers paraphrase generation and identification, LLM evaluation and red teaming, multi-agent systems, and small language models for low-resource settings. I like building open-source tools and datasets that make Vietnamese a first-class language for NLP.
+I'm an NLP researcher and engineer based in Ho Chi Minh City, working on resources and models for Vietnamese: paraphrase generation and identification, natural language inference, and implicit sentiment on social media.
+ 
+Most recently, I've been building quality-controlled paraphrase generation for Vietnamese and training small language models that favor carefully curated data over sheer volume. Outside research, I run [tracnghiem-jlpt.com](https://tracnghiem-jlpt.com), a community platform helping Vietnamese learners prepare for the JLPT.
+ 
+If you'd like to collaborate on Vietnamese NLP, data curation, or small language models, feel free to reach out on [Hugging Face](https://huggingface.co/ngwgsang) or open an issue in any of my repos.
 
-### Research interests
+#### Publications
+ 
+Full list on [Google Scholar](https://scholar.google.com/citations?user=YHhyHUcAAAAJ).
 
-`Paraphrase Generation` `Vietnamese NLP` `Natural Language Inference` `LLM Safety & Red Teaming` `Multi-Agent Systems` `Small Language Models` `Knowledge Distillation`
+### Building
+ 
+- **[Trắc nghiệm JLPT](https://tracnghiem-jlpt.com)** - A community-driven JLPT practice platform built for Vietnamese learners of Japanese. Welcomed 200+ learners on launch day and grew to 10,000+ visits within its first month.
+- **[VietQuill](https://github.com/ngwgsang/vietquill)** [![GitHub stars](https://img.shields.io/github/stars/ngwgsang/vietquill?style=flat&color=gold)](https://github.com/ngwgsang/vietquill) - A unified framework for Vietnamese paraphrase generation, evaluation, and quality control, for both research and production.
+- **[Vwen](https://github.com/ngwgsang/vwen)** [![GitHub stars](https://img.shields.io/github/stars/ngwgsang/vwen?style=flat&color=gold)](https://github.com/ngwgsang/vwen) - A curated small language model for Vietnamese paraphrasing: fewer, better examples and diverse tasks, fully fine-tuned at the sub-1B scale.
 
 ### Tech stack
 
@@ -41,7 +51,3 @@ I work on **Vietnamese NLP** and **large language models**, with a soft spot for
 [![NVIDIA Certified Professional: Agentic AI](https://img.shields.io/badge/NCP--AAI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](http://credential.nvidia.com/74040cf1-5685-4c73-8ee1-b80e04a35cd1)
 [![NVIDIA Certified Associate: Generative AI Multimodal](https://img.shields.io/badge/NCA--GENM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](http://credential.nvidia.com/fe04b4ec-9536-4a69-8e4a-e58adf5e2240)
 [![NVIDIA Certified Associate: Generative AI LLMs](https://img.shields.io/badge/NCA--GENL-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](http://credential.nvidia.com/7b157dbf-90ca-45cd-baf4-dd69e977f5ae)
-
-<div align="center">
-<sub>Open to research collaborations on Vietnamese NLP and LLMs. Feel free to reach out.</sub>
-</div>
