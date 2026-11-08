@@ -1,14 +1,14 @@
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Sang+Quang+Nguyen;Vietnamese+NLP+%C2%B7+LLMs+%C2%B7+AI+Safety;%E6%8B%99%E8%80%85%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B5%AA%E4%BA%BA%E3%81%A7%E3%81%99%E3%80%82&font=Fira%20Code&center=true&width=800&height=100&duration=3000&pause=1000&color=58A6FF" /> <img src="https://readme-typing-svg.herokuapp.com/?lines=Sang+Quang+Nguyen;Vietnamese+NLP+%C2%B7+LLMs+%C2%B7+AI+Safety;%E6%8B%99%E8%80%85%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B5%AA%E4%BA%BA%E3%81%A7%E3%81%99%E3%80%82&font=Fira%20Code&center=true&width=800&height=100&duration=3000&pause=1000&color=1B2CC1" alt="Typing SVG" /> </picture>
+<div align="center">
 
-Ho Chi Minh City, Viet Nam
+<h1>Hi there, I'm Sang 👋</h1>
 
-<a href="https://scholar.google.com/citations?user=YHhyHUcAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="32" height="32" alt="Google Scholar" /></a>&nbsp;&nbsp;
-<a href="https://orcid.org/0009-0008-5460-0489" title="ORCID"><img src="https://cdn.simpleicons.org/orcid/A6CE39" width="32" height="32" alt="ORCID" /></a>&nbsp;&nbsp;
-<a href="https://dblp.org/pid/168/6039.html" title="DBLP"><img src="https://cdn.simpleicons.org/dblp/004F9F" width="32" height="32" alt="DBLP" /></a>&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/Sang-Nguyen-113/research" title="ResearchGate"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="32" height="32" alt="ResearchGate" /></a>&nbsp;&nbsp;
-<a href="https://openreview.net/profile?id=~Sang_Quang_Nguyen1" title="OpenReview"><img src="https://openreview.net/favicon.ico" width="32" height="32" alt="OpenReview" /></a>&nbsp;&nbsp;
-<a href="https://www.alphaxiv.org/@sang-quang-nguyen" title="alphaXiv"><img src="https://cdn.simpleicons.org/arxiv/B31B1B" width="32" height="32" alt="alphaXiv" /></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/ngwgsang" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" /></a>
+<a href="https://scholar.google.com/citations?user=YHhyHUcAAAAJ" title="Google Scholar"><img src="assets/social/googlescholar.svg" width="36" height="36" alt="Google Scholar" /></a>
+<a href="https://orcid.org/0009-0008-5460-0489" title="ORCID"><img src="assets/social/orcid.svg" width="36" height="36" alt="ORCID" /></a>
+<a href="https://dblp.org/pid/168/6039.html" title="DBLP"><img src="assets/social/dblp.svg" width="36" height="36" alt="DBLP" /></a>
+<a href="https://www.researchgate.net/profile/Sang-Nguyen-113/research" title="ResearchGate"><img src="assets/social/researchgate.svg" width="36" height="36" alt="ResearchGate" /></a>
+<a href="https://openreview.net/profile?id=~Sang_Quang_Nguyen1" title="OpenReview"><img src="assets/social/openreview.svg" width="36" height="36" alt="OpenReview" /></a>
+<a href="https://www.alphaxiv.org/@sang-quang-nguyen" title="alphaXiv"><img src="assets/social/alphaxiv.svg" width="36" height="36" alt="alphaXiv" /></a>
+<a href="https://huggingface.co/ngwgsang" title="Hugging Face"><img src="assets/social/huggingface.svg" width="36" height="36" alt="Hugging Face" /></a>
 
 </div>
 
@@ -34,17 +34,61 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=YHhyHUcA
 
 ### Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-FF4017?style=flat)
-![TRL](https://img.shields.io/badge/TRL-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<table>
+  <tr>
+    <td><b>ML &amp; LLMs</b></td>
+    <td>
+      <img src="assets/tech/python.svg" width="40" height="40" alt="Python" title="Python" />
+      <img src="assets/tech/pytorch.svg" width="40" height="40" alt="PyTorch" title="PyTorch" />
+      <img src="assets/tech/tensorflow.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
+      <img src="assets/tech/transformers.svg" width="40" height="40" alt="Hugging Face Transformers" title="Hugging Face Transformers" />
+      <img src="assets/tech/trl.svg" width="40" height="40" alt="Hugging Face TRL" title="Hugging Face TRL" />
+      <img src="assets/tech/langchain.svg" width="40" height="40" alt="LangChain" title="LangChain" />
+      <img src="assets/tech/agno.svg" width="40" height="40" alt="Agno" title="Agno" />
+      <img src="assets/tech/mlflow.svg" width="40" height="40" alt="MLflow" title="MLflow" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="assets/tech/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+      <img src="assets/tech/duckdb.svg" width="40" height="40" alt="DuckDB" title="DuckDB" />
+      <img src="assets/tech/qdrant.svg" width="40" height="40" alt="Qdrant" title="Qdrant" />
+      <img src="assets/tech/chromadb.svg" width="40" height="40" alt="ChromaDB" title="ChromaDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td>
+      <img src="assets/tech/playwright.svg" width="40" height="40" alt="Playwright" title="Playwright" />
+      <img src="assets/tech/robotframework.svg" width="40" height="40" alt="Robot Framework" title="Robot Framework" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="assets/tech/django.svg" width="40" height="40" alt="Django" title="Django" />
+      <img src="assets/tech/fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="assets/tech/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+      <img src="assets/tech/react.svg" width="40" height="40" alt="React" title="React" />
+      <img src="assets/tech/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+      <img src="assets/tech/css.svg" width="40" height="40" alt="CSS" title="CSS" />
+      <img src="assets/tech/sass.svg" width="40" height="40" alt="Sass" title="Sass" />
+      <img src="assets/tech/shadcnui.svg" width="40" height="40" alt="shadcn/ui" title="shadcn/ui" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="assets/tech/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
+    </td>
+  </tr>
+</table>
 
 ### Certifications
 
