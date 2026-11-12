@@ -31,6 +31,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=YHhyHUcA
 - **[Trắc nghiệm JLPT](https://tracnghiem-jlpt.com)** - A community-driven JLPT practice platform built for Vietnamese learners of Japanese. Welcomed 200+ learners on launch day and grew to 10,000+ visits within its first month.
 - **[VietQuill](https://github.com/ngwgsang/vietquill)** [![GitHub stars](https://img.shields.io/github/stars/ngwgsang/vietquill?style=flat&color=gold)](https://github.com/ngwgsang/vietquill) - A unified framework for Vietnamese paraphrase generation, evaluation, and quality control, for both research and production.
 - **[Vwen](https://github.com/ngwgsang/vwen)** [![GitHub stars](https://img.shields.io/github/stars/ngwgsang/vwen?style=flat&color=gold)](https://github.com/ngwgsang/vwen) - A curated small language model for Vietnamese paraphrasing: fewer, better examples and diverse tasks, fully fine-tuned at the sub-1B scale.
+- **[Llama Plays Ô Ăn Quan](https://github.com/ngwgsang/llama-plays-o-an-quan)** [![GitHub stars](https://img.shields.io/github/stars/ngwgsang/llama-plays-o-an-quan?style=flat&color=gold)](https://github.com/ngwgsang/llama-plays-o-an-quan) - Can an LLM win a Vietnamese schoolyard classic? Llama models from 3B to 70B, cast as five personas from Defensive to RiskTaker, battle it out in Ô Ăn Quan to probe how LLMs plan and reason, with move-by-move 2D/3D replays of every game.
 
 ### Tech stack
 
